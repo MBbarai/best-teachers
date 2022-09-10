@@ -1,0 +1,13 @@
+.header{
+          width: 80%;
+          background-color: #88a6ca;
+          line-height: 30px;
+          margin-left: 120px;
+          text-align: center;
+          border-radius: 10px;
+          padding: 5px;
+}
+.textStyle{
+          font-size:25px;
+          color:white ;
+}
